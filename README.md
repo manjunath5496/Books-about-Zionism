@@ -76,7 +76,9 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(61).pdf" style="text-decoration:none;">America's Palestine: Popular and Official Perceptions from Balfour to Israeli Statehood </a></b></li> 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(62).pdf" style="text-decoration:none;">What Does a Jew Want?: On Binationalism and Other Specters </a></b></li> 
  
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(34).pdf" style="text-decoration:none;"> Ben-Gurion's Scandals: How the Haganah and the Mossad Eliminated Jews</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(51).pdf" style="text-decoration:none;">A History of Israel: From the Rise of Zionism to Our Time </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/zi(54).pdf" style="text-decoration:none;">The Protocols of the Learned Elders of Zion </a></b></li> 
  
  
  
