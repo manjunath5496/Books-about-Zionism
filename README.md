@@ -66,9 +66,15 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(53).pdf" style="text-decoration:none;">The Peace and Violence of Judaism: From the Bible to Modern Zionism  </a></b></li>
                              
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(55).pdf" style="text-decoration:none;">The Persistence of the Palestinian Question: Essays on Zionism and the Palestinians</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(56).pdf" style="text-decoration:none;">A History of Zionism: From the French Revolution to the Establishment of the State of Israel  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(57).pdf" style="text-decoration:none;">Jews Against Themselves</a></b></li>
  
- 
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(58).pdf" style="text-decoration:none;">New Dictionary of Theology: Historic and Systematic</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(59).pdf" style="text-decoration:none;">The Origins of Israeli Mythology: Neither Canaanites nor Crusaders </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(60).pdf" style="text-decoration:none;">The Question of Zion</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(61).pdf" style="text-decoration:none;">America's Palestine: Popular and Official Perceptions from Balfour to Israeli Statehood </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(62).pdf" style="text-decoration:none;">What Does a Jew Want?: On Binationalism and Other Specters </a></b></li> 
  
  
  
