@@ -62,5 +62,19 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(49).pdf" style="text-decoration:none;">Zionism and the State of Israel  </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(50).pdf" style="text-decoration:none;">Zionism in the Age of the Dictators</a></b></li>
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(52).pdf" style="text-decoration:none;">Reform Zionism – A Way of Life</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(53).pdf" style="text-decoration:none;">The Peace and Violence of Judaism: From the Bible to Modern Zionism  </a></b></li>
+                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  </ul>
