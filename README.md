@@ -41,11 +41,11 @@
                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(35).pdf" style="text-decoration:none;">The Myths of Zionism</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(36).pdf" style="text-decoration:none;">The New American Zionism</a></b></li>
-
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(37).pdf" style="text-decoration:none;">The Political Philosophy of Zionism: Trading Jewish Words for a Hebraic Land</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(38).pdf" style="text-decoration:none;">Revolutionary Yiddishland: A History of Jewish Radicalism </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(39).pdf" style="text-decoration:none;">As Light Before Dawn: The Inner World of a Medieval Kabbalist</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(40).pdf" style="text-decoration:none;">Wisdom of Solomon 10: A Jewish Hellenistic Reinterpretation of Early Israelite History through Sapiential Lenses</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(38).pdf" style="text-decoration:none;">The Quotable Hitchens: From Alcohol to Zionism </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(39).pdf" style="text-decoration:none;">The Zionism of God: A Biblical view of the history and meaning of Zion</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(40).pdf" style="text-decoration:none;">Zellig Harris: From American Linguistics to Socialist Zionism</a></b></li>
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(41).pdf" style="text-decoration:none;">A History of Modern Jewish Religious Philosophy</a></b></li>
 
