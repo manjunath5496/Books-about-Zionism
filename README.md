@@ -38,12 +38,9 @@
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(33).pdf" style="text-decoration:none;">The Founding Fathers of Zionism</a></b></li> 
  
- 
- 
- 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(34).pdf" style="text-decoration:none;">The Jewish Unions in America: Pages of History and Memories</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(35).pdf" style="text-decoration:none;">The Chosen Game: A Jewish Basketball History</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(36).pdf" style="text-decoration:none;">History of the Jewish Nation after the Destruction of Jerusalem under Titus</a></b></li>
+                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(35).pdf" style="text-decoration:none;">The Myths of Zionism</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(36).pdf" style="text-decoration:none;">The New American Zionism</a></b></li>
 
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(38).pdf" style="text-decoration:none;">Revolutionary Yiddishland: A History of Jewish Radicalism </a></b></li>                              
