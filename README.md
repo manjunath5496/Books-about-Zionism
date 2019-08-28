@@ -47,10 +47,10 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(39).pdf" style="text-decoration:none;">The Zionism of God: A Biblical view of the history and meaning of Zion</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(40).pdf" style="text-decoration:none;">Zellig Harris: From American Linguistics to Socialist Zionism</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(41).pdf" style="text-decoration:none;">A History of Modern Jewish Religious Philosophy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(41).pdf" style="text-decoration:none;">Zionism & Racism</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(42).pdf" style="text-decoration:none;">Rewriting Ancient Jewish History: The History of the Jews in Roman Times and the New Historical Method</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(43).pdf" style="text-decoration:none;">Philosophy and the Jewish Tradition </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(42).pdf" style="text-decoration:none;">Zionism and Land Tenure in Mandate Palestine</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(43).pdf" style="text-decoration:none;">Zionism and the Arabs, 1936-1939 </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(44).pdf" style="text-decoration:none;">Sects and Sectarianism in Jewish History </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(45).pdf" style="text-decoration:none;">Zionist Israel and the Question of Palestine </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(46).pdf" style="text-decoration:none;">Jewish History, Jewish Religion </a></b></li>
