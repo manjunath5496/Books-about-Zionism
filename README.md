@@ -33,10 +33,10 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(28).pdf" style="text-decoration:none;">Our Promised Land: Faith and Militant Zionism in Israeli Settlements</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(29).pdf" style="text-decoration:none;">Sovereign Jews: Israel, Zionism, and Judaism</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(30).pdf" style="text-decoration:none;">The A to Z of Zionism</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(31).pdf" style="text-decoration:none;">Jewish Economies: Development and Migration in America and Beyond</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(32).pdf" style="text-decoration:none;">Post-Holocaust: Interpretation, Misinterpretation, and the Claims of History</a></b></li>      
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(31).pdf" style="text-decoration:none;">The Dark Side of Zionism</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(32).pdf" style="text-decoration:none;">The False Prophets of Peace: Liberal Zionism and the Struggle for Palestine</a></b></li>      
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(33).pdf" style="text-decoration:none;">Calendar and Community: A History of the Jewish Calendar, Second Century BCE–Tenth Century CE</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(33).pdf" style="text-decoration:none;">The Founding Fathers of Zionism</a></b></li> 
  
  
  
