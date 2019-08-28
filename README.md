@@ -10,8 +10,8 @@
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(9).pdf" style="text-decoration:none;">Class Struggle and the Jewish Nation</a></b></li>                             
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(10).pdf" style="text-decoration:none;">Deconstructing Zionism: A Critique of Political Metaphysics</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(11).pdf" style="text-decoration:none;">"What a breach you have made for yourself!": The History of Jewish Interpretations of Genesis 38</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(12).pdf" style="text-decoration:none;">The First Jewish Revolt: Archaeology, history, and ideology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(11).pdf" style="text-decoration:none;">Tortured Zionism: Messianism, Ambivalence, and Israel in Post-Holocaust Jewish American Literature</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(12).pdf" style="text-decoration:none;">Einstein on Politics: His Private Thoughts and Public Stands on Nationalism, Zionism, War, Peace, and the Bomb</a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(13).pdf" style="text-decoration:none;">The Ascents of James: History and Theology of a Jewish-Christian Community</a></b></li>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(14).pdf" style="text-decoration:none;">What Ifs of Jewish History: From Abraham to Zionism </a></b></li>                              
